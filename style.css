@@ -1,0 +1,10 @@
+body{
+  background-color: lightyellow;
+}
+
+/* 見出しの文字を青に */
+h1 {
+  color: blue;
+  font-size: 32px;
+  text-align: center;
+}
